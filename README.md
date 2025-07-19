@@ -3,6 +3,7 @@ En el presente repositorio se expondrá en que conssitió el proyecto realizado 
 - Dilan Mateo Torres Muñoz
 - Arturo Moreno Covaría
 - Nicolás Zarate Acosta
+- 
 
 Bienvenidos a nuestro repositorio del proyecto final de nuestra clase de electrónica digital de la Universidad Nacional de Colombia del semestre 2025-I, el cual consistía en el diseño y posterior implementación de  un theremin (instrumento musical), realizando una versión digital de este mismo mediante el uso de sensores ultrasónicos, FPGA y ESP32.
 
@@ -44,4 +45,15 @@ flowchart TB
   end
 
   RUN --> Loop
+```
+
+## Requrimentos funcionales:
+## Diagrama ASM/ Maquina de estados/ diagramas funcionales:
+## Diagrama RTL del SoC y su mòdulo:
+## Simulaciones:
+## Video simulacion: 
+## Logs de make log-prn, make log-syn
+## ¿Còmo interactùa con entornos externos?
+## Video del proyecto
+
 
